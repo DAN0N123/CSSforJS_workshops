@@ -1,7 +1,7 @@
 import React from "react";
 import styled from "styled-components";
 
-import { COLORS } from "../../constants";
+import { COLORS, BREAKPOINTS } from "../../constants";
 
 import SearchInput from "../SearchInput";
 import UnstyledButton from "../UnstyledButton";

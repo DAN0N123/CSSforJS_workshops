@@ -83,7 +83,7 @@ const Link = styled.a`
 `;
 
 const Wrapper = styled.article`
-  flex: 1 0 350px;
+  flex: 1 1 350px;
   max-width: 350px;
 `;
 
