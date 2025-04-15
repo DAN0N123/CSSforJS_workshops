@@ -190,6 +190,7 @@ const MainNavArea = styled.div`
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     justify-items: start;
+    align-items: start;
   }
   @media ${QUERIES.desktopAndUp} {
     display: grid;
